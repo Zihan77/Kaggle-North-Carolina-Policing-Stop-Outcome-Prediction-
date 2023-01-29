@@ -12,7 +12,7 @@ This dataset includes 1.6 gb of stop data from North Carolina, covering all of 2
 This dataset was kindly made available by the Stanford Open Policing Project. If you use it for a research publication, please cite their working paper:
 E. Pierson, C. Simoiu, J. Overgoor, S. Corbett-Davies, V. Ramachandran, C. Phillips, S. Goel. (2017) “A large-scale analysis of racial disparities in police stops across the United States”.
 
-If you'd like to see data regarding other states, please go to https://www.kaggle.com/stanford-open-policing.
+If you'd like to see data regarding other states, please go to https://openpolicing.stanford.edu/.
 
 # Inspiration:
 How predictable are the stop rates? Are there times and places that
